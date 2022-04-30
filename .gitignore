@@ -1,0 +1,9 @@
+/*
+!src
+!Cargo.toml
+!.gitignore
+!target/
+target/*
+!target/release
+target/release/*
+!target/release/MarkdownIndexer.exe
